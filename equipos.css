@@ -56,6 +56,7 @@ h1, h2, h3 {
   .navbar-expand-lg{
     display: flex!important;
     flex-basis: auto;
+    color:white;
   }
   }
  
