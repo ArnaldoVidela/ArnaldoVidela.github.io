@@ -107,16 +107,7 @@ background-color:gray;
 
 
 
-.ru a {
 
-  display: inline-block;
-  text-align: center;
-  font-size: 14px;
-  color: #000000;
-  text-decoration: none;
-  margin-bottom: 0px;
-  transition: color 0.1s ease;
-}
 
 .ru a:hover {
   color: #fcfdff;
