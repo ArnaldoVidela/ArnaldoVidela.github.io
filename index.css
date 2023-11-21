@@ -45,7 +45,7 @@ font-size:18px;
  
    .carrusel-imagen {
     
-      display:flex;
+      display: flex;
       justify-content: center;
       align-items: center;
       text-align: center;
@@ -139,9 +139,11 @@ h1, h2, h3 {
       left: 45%;
   }
   .navbar-expand-lg{
-    display: flex!important;
+  
+   display: flex!important;
     flex-basis: auto;
-    color:black; 
+   color:black; 
+  background-color: rgba(255,255,255, 0.4);
   }
   }
 .nav-link{
