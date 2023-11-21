@@ -98,9 +98,8 @@ object-fit: cover;
 
 /* Estilos para hacer el footer responsive */
 footer {
-background-color:gray;
-  padding: 10px;
-  height: 210px;
+background-color:f3a505;
+height: 210px;
 
 }
 
@@ -109,7 +108,7 @@ background-color:gray;
 
 
 .ru a:hover {
-  color: #fcfdff;
+  color: white;
 }
 
 
