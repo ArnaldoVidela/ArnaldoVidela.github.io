@@ -136,8 +136,7 @@ h1, h2, h3 {
 .navbar-collapse {
     display: flex!important;
     flex-basis: auto;
-    position: relative;
-    left: 45%;
+  
 }
 .navbar-expand-lg{
   display: flex!important;
