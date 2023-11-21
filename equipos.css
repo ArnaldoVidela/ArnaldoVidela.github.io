@@ -32,7 +32,7 @@ footer {
     height: 60px;
   }
   .nav-link{
-    color: white;
+    color: black;
     font-size:18px;
     
     }
@@ -84,6 +84,4 @@ color: #000000;
 
 
   }
-.nav-link{
-color:black;
-}
+
