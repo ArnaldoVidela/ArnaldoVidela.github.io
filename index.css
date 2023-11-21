@@ -19,12 +19,12 @@ height: 100%;
 
 }
 
-
- .bg-body-tertiary {
-      background-color:rgba(170, 162, 162, 0);
+  .bg-body-tertiary {
+      background-color:rgba(170, 162, 162, 0)!important;
   height: 100px;
 
     }
+
 
  .carousel-control-prev {
     left: 0;
@@ -34,7 +34,7 @@ height: 100%;
 }
 
 .nav-link{
-color: black;
+color: white;
 font-size:18px;
 
 }
@@ -49,7 +49,7 @@ font-size:18px;
  
    .carrusel-imagen {
     
-      display: flex;
+      display:flex;
       justify-content: center;
       align-items: center;
       text-align: center;
@@ -72,7 +72,8 @@ font-size:18px;
 
 
     .navbar {
-   color: rgba(0,0,0);
+   background-color: #33333300;
+   color: rgb(0, 0, 0);
    padding: 10px 20px;
    position: absolute;
    width: 100%;
@@ -104,7 +105,7 @@ footer {
   background: -o-linear-gradient(top, rgba(242, 242, 242, 0.5), rgba(106, 123, 139, 0.5));
   
   padding: 10px;
-  height: 250px;
+  height: 210px;
 
 }
 
@@ -134,17 +135,16 @@ h1, h2, h3 {
   font-family: 'Raleway', sans-serif;
 }
 
-@media(min-width: 992px){
- .navbar-collapse {
-      display: flex!important;
-      flex-basis: auto;
-      position: relative;
-      left: 45%;
-  color:black;
-  }
-  .navbar-expand-lg{
-   display: flex!important;
-    flex-basis: auto;
-  }
-  }
+@media (min-width: 992px){
 
+.navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    position: relative;
+    left: 45%;
+}
+.navbar-expand-lg{
+  display: flex!important;
+  flex-basis: auto;
+}
+}
