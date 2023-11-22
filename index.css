@@ -5,7 +5,9 @@ height: 400px;
 
 }
 
-
+.col-md-3{
+align-items:flex-end;
+}
   
 
 .card-img-top{
