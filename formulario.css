@@ -56,14 +56,13 @@ h1, h2, h3 {
 
 @media (min-width: 992px){
 
-  .navbar-collapse {
-      display: flex!important;
-      flex-basis: auto;
-      position: relative;
-      left: 45%;
-  }
-  .navbar-expand-lg{
+.navbar-collapse {
     display: flex!important;
     flex-basis: auto;
-  }
-  }
+  
+}
+.navbar-expand-lg{
+  display: flex!important;
+  flex-basis: auto;
+}
+}
