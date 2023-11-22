@@ -39,19 +39,16 @@ h1, h2, h3 {
 
  @media (min-width: 992px){
 
-  .navbar-collapse {
-      display: flex!important;
-      flex-basis: auto;
-      position: relative;
-     
-  }
-  .navbar-expand-lg{
+.navbar-collapse {
     display: flex!important;
     flex-basis: auto;
-    color:white;
-  }
-  }
- 
+  
+}
+.navbar-expand-lg{
+  display: flex!important;
+  flex-basis: auto;
+}
+}
   
   .card{
     background: linear-gradient(top bottom, rgba(242, 242, 242, 0.5), rgba(106, 123, 139, 0.5));
