@@ -16,7 +16,15 @@ footer {
 background-color:rgba(0, 0, 0, 25%)!important;
     }
 
-  
+   .navbar {
+   background-color:#f3a505;
+   color: rgb(0, 0, 0);
+   position: absolute;
+   width: 100%;
+   top: 0;
+ 
+  }
+
 
   .ru a {
 
