@@ -15,7 +15,11 @@ footer {
     
     }
 
-    
+    .bg-body-tertiary {
+  height: 76px;
+background-color:rgba(0, 0, 0, 25%)!important;
+    }
+
   
 
   .ru a {
