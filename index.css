@@ -130,7 +130,7 @@ h1, h2, h3 {
 footer{
 height:500px;      
 }
-      
+ @media (min-width: 992px){     
 .navbar-collapse {
     display: flex!important;
     flex-basis: auto;
