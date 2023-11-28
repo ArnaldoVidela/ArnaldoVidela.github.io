@@ -5,6 +5,12 @@ footer {
   
   }
 
+.col-md-1{
+      display: grid;
+    align-content: space-around;
+  text-align:center;
+}
+
 .nav-link{
     color: black;
     font-size:18px;
