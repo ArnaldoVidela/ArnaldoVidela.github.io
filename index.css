@@ -98,7 +98,7 @@ object-fit: cover;
 }
 
 /* Estilos para hacer el footer responsive */
-#foot {
+footer {
 background-color:#f3a505;
 height: 210px;
 
@@ -124,7 +124,7 @@ h1, h2, h3 {
 @media (min-width: 992px){
 
 #foot{
-width:500px;      
+height:500px;      
 }
       
 .navbar-collapse {
