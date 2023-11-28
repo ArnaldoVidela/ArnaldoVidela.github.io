@@ -98,7 +98,7 @@ object-fit: cover;
 }
 
 /* Estilos para hacer el footer responsive */
-footer {
+#foot {
 background-color:#f3a505;
 height: 210px;
 
@@ -123,7 +123,7 @@ h1, h2, h3 {
 
 @media (min-width: 992px){
 
-footer{
+#foot{
 width:500px;      
 }
       
