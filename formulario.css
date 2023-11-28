@@ -16,6 +16,16 @@ footer {
     font-size:18px;
     
     }
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+background-color:#f3a505;
+height: 210px;
+
+}
+
 
     .bg-body-tertiary {
   height: 76px;
