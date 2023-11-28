@@ -89,3 +89,8 @@ color: #000000;
 
   }
 
+@media (max-width: 992px){
+
+footer{
+height:500px;      
+}}
