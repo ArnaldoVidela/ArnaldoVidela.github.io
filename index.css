@@ -99,6 +99,11 @@ object-fit: cover;
 
 /* Estilos para hacer el footer responsive */
 footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+      
 background-color:#f3a505;
 height: 500px;
 
@@ -124,6 +129,7 @@ h1, h2, h3 {
 @media (min-width: 992px){
 
 footer{
+
 height:210px;      
 }
       
